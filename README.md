@@ -8,7 +8,7 @@ Bangalore, Karnataka, India | [haree.06a@gmail.com](mailto:haree.06a@gmail.com) 
 
 ## About Me
 
-Senior QA Automation Engineer with **5+ years of experience** in software testing and test automation across enterprise and customer-facing applications. Specialized in building and maintaining UI, API, and end-to-end automation solutions using Python, Pytest, Playwright, and Selenium.
+Senior QA Automation Engineer with **around 5 years of experience** in software testing and test automation across enterprise and customer-facing applications. Specialized in building and maintaining UI, API, and end-to-end automation solutions using Python, Pytest, Playwright, and Selenium.
 
 Strong expertise in **AI-assisted automation development** using OpenAI Codex and Claude, leveraging AI to support script development, refactoring, debugging, and test coverage analysis while maintaining manual review and ownership of code quality.
 
@@ -61,8 +61,8 @@ Strong expertise in **AI-assisted automation development** using OpenAI Codex an
 
 ## Professional Experience
 
-### Tech NeOn Solutions Pvt. Ltd. | Bangalore, India
-**Senior QA Automation Engineer** | *2021 - Present*
+### Senior QA Automation Engineer | Bangalore, India
+*2021 - Present*
 
 - Designed and maintained Python-based automation frameworks using Pytest, Playwright, and Selenium
 - Integrated AI tools (OpenAI Codex, Claude) to accelerate automation development (2+ years AI-assisted experience)
@@ -71,9 +71,9 @@ Strong expertise in **AI-assisted automation development** using OpenAI Codex an
 - Integrated automated suites into Jenkins and GitHub Actions CI/CD pipelines
 - Worked across enterprise applications: sourcing platforms, approval workflows, vendor management
 
-### Client Projects
+### Key Projects
 - **Enterprise Test Automation** - AI-assisted quality engineering with full-stack automation
-- **BK Sourcing Automation** - Vendor management and sourcing workflow automation
+- **Sourcing Automation** - Vendor management and sourcing workflow automation
 - **Approval Management System** - Role-based approval and request workflow testing
 
 ---
