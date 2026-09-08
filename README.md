@@ -2,7 +2,7 @@
 
 ### Senior QA Automation Engineer
 
-Bangalore, Karnataka, India | [haree.06a@gmail.com](mailto:haree.06a@gmail.com) | [LinkedIn](https://linkedin.com/in/hareesh-chowdary) | +91-9606418105
+Bangalore, Karnataka, India | [haree.06a@gmail.com](mailto:haree.06a@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hareesh-A-QASince21) | +91-9606418105
 
 ---
 
@@ -126,9 +126,20 @@ AI-assisted test automation patterns using OpenAI Codex and Claude for script de
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hareesh-chowdary)
+<div class="badge-base LI-profile-badge"
+     data-locale="en_US"
+     data-size="medium"
+     data-theme="light"
+     data-type="VERTICAL"
+     data-vanity="hareesh-A-QASince21"
+     data-version="v1">
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareesh-A-QASince21)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haree.06a@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/automation-harish)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ---
 
